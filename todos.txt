@@ -1,0 +1,6 @@
+get water
+get food
+get grocery
+get coke
+do coding
+do stuff
